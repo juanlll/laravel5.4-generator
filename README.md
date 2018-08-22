@@ -4,8 +4,8 @@
 ## 1- composer install
 ## 2- php artisan key:generate
 ## 3- composer update
-## 3- crear base de datos en mysql o postgresl
-## 3- modificar .env:
+## 4- crear base de datos en mysql o postgresl
+## 5- modificar .env:
 
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -15,8 +15,8 @@ DB_USERNAME=root
 DB_PASSWORD=
 
 
-## 3- php artisan migrate
-## 4- php artisan serve
+## 6- php artisan migrate
+## 7- php artisan serve
 
 
 <h1>Generar Crud</h1>
